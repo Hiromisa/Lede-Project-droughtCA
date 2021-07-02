@@ -43,6 +43,6 @@ The code running the analysis is written in Python 3 and requires pandas．
 
 pandas for data loading and analysis
 
-Jupiter to run the notebook infrastructure
+Jupyter to run the notebook infrastructure
 
 
