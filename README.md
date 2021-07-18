@@ -1,4 +1,4 @@
-# Lede-Project-droughtCA
+# Project: Every Californian life in a Drought area
 ---
 This is a project for Lede week3. I analyzed the current California drought situation.
 
@@ -6,7 +6,7 @@ I've updated my project for week2 with Jupyter/pandas data analysis. I've modifi
 
 
 ---
-## Project: Every Californian life in a Drought area
+## article based on this project
 
 https://docs.google.com/document/d/116q_W8dOJqqMwvCnesG1kMMALefLzvQBVX5WhUBlwt8/edit?usp=sharing
 
